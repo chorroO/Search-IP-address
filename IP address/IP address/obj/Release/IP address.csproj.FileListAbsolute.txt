@@ -1,0 +1,8 @@
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\bin\Release\IP address.exe.config
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\bin\Release\IP address.exe
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\bin\Release\IP address.pdb
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\obj\Release\IP_address.Form1.resources
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\obj\Release\IP_address.Properties.Resources.resources
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\obj\Release\IP address.csproj.GenerateResource.Cache
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\obj\Release\IP address.exe
+C:\Users\ChoRRo\documents\visual studio 2017\Projects\IP address\IP address\obj\Release\IP address.pdb

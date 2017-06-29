@@ -1,0 +1,9 @@
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP address.csprojResolveAssemblyReference.cache
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP_address.Form1.resources
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP_address.Properties.Resources.resources
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP address.csproj.GenerateResource.Cache
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\bin\Debug\IP address.exe.config
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\bin\Debug\IP address.exe
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\bin\Debug\IP address.pdb
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP address.exe
+c:\users\chorro\documents\visual studio 2017\Projects\IP address\IP address\obj\Debug\IP address.pdb
